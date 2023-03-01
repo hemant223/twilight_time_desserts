@@ -1,12 +1,4 @@
 export const FontFamily={
-    regular:"Century Gothic",
-    regular1:"CenturyGothic" ,
-    normal:"GOTHIC",
-    bold:"GOTHICB",
-    bold1:"gothicb",
-    bold0:"GOTHICB0",
-    bolditalic:"GOTHICBI",
-
     Popinssemibold:"Poppins-SemiBold",
     Popinssemibolditalic:"Poppins-SemiBoldItalic",
     Popinsbold:"Poppins-Bold",
@@ -16,13 +8,5 @@ export const FontFamily={
     PopinsMedium:"Poppins-Medium",
     PopinsThin:"Poppins-Thin",
     PopinsRegular:"Poppins-Regular",
-    abhinabolditalic:"Poppins-BoldItalic",
-    TTCommonsBlack:"TT Commons Black",
-    TTCommonsBold:"TT Commons Bold",
-    TTCommonsDemiBold:"TTCommonsDemiBold",
-    TTCommonsExtraBold:"TTCommonsExtraBold",
-    TTCommonsExtraLight:"TTCommonsExtraLight",
-    TTCommonsLight:"TTCommonsLight",
-    TTCommonsMedium:"TTCommonsMedium",
-    TTCommonsRegular:"TTCommonsRegular"
+   
 }
