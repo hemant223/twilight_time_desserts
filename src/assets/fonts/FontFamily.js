@@ -1,5 +1,4 @@
 export const FontFamily={
-   
     Popinssemibold:"Poppins-SemiBold",
     Popinssemibolditalic:"Poppins-SemiBoldItalic",
     Popinsbold:"Poppins-Bold",
